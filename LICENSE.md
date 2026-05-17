@@ -1,10 +1,10 @@
-Smart PureVPN Plugin | torrenting support + P2P support is the best PureVPN plugin with torrenting support and P2P support. Secure and optimized.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/purevpn-qn24/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
