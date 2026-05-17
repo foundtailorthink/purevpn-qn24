@@ -1,4 +1,4 @@
-
+Smart PureVPN Plugin | torrenting support + P2P support is the best PureVPN plugin with torrenting support and P2P support. Secure and optimized.
 
 
 
